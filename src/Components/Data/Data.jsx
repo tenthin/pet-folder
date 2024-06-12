@@ -1,0 +1,88 @@
+let pets = [
+  { pet: "cat", breed: "Siamese", lifespan: (15, 20), image: "Siamese cat" },
+  { pet: "cat", breed: "Burmese", lifespan: (16, 30), image: "Burmese cat" },
+  { pet: "cat", breed: "Balinese", lifespan: (15, 20), image: "Balinese cat" },
+  {
+    pet: "cat",
+    breed: "Russian Blue",
+    lifespan: (10, 20),
+    image: "Russian Blue cat",
+  },
+  {
+    pet: "cat",
+    breed: "Maine Coon",
+    lifespan: (12, 15),
+    image: "Maine Coon cat",
+  },
+  {
+    pet: "cat",
+    breed: "Norwegian Forest Cat",
+    lifespan: (14, 16),
+    image: "Norwegian Forest Cat",
+  },
+  { pet: "cat", breed: "Ragdoll", lifespan: (12, 16), image: "Ragdoll cat" },
+  {
+    pet: "cat",
+    breed: "Siberian Forest Cat",
+    lifespan: (11, 15),
+    image: "Siberian Forest Cat",
+  },
+  { pet: "cat", breed: "Sphynx", lifespan: (8, 12), image: "Sphynx cat" },
+  {
+    pet: "cat",
+    breed: "Cornish Rex",
+    lifespan: (12, 15),
+    image: "Cornish Rex cat",
+  },
+  {
+    pet: "cat",
+    breed: "Oriental Shorthair",
+    lifespan: (12, 15),
+    image: "Oriental Shorthair cat",
+  },
+  { pet: "cat", breed: "Singapura", lifespan: (9, 15), image: "Singapura cat" },
+  {
+    pet: "cat",
+    breed: "American Shorthair",
+    lifespan: (15, 20),
+    image: "American Shorthair cat",
+  },
+  {
+    pet: "cat",
+    breed: "Abyssinian",
+    lifespan: (12, 15),
+    image: "Abyssinian cat",
+  },
+  { pet: "cat", breed: "Bombay", lifespan: (15, 20), image: "Bombay cat" },
+  {
+    pet: "cat",
+    breed: "European Burmese",
+    lifespan: (16, 20),
+    image: "European Burmese cat",
+  },
+  {
+    pet: "cat",
+    breed: "Kurilian Bobtail",
+    lifespan: (10, 15),
+    image: "Kurilian Bobtail cat",
+  },
+  {
+    pet: "cat",
+    breed: "Turkish Angora",
+    lifespan: (12, 18),
+    image: "Turkish Angora cat",
+  },
+  {
+    pet: "cat",
+    breed: "Turkish Van",
+    lifespan: (12, 17),
+    image: "Turkish Van cat",
+  },
+  {
+    pet: "cat",
+    breed: "Selkirk Rex",
+    lifespan: (9, 15),
+    image: "Selkirk Rex cat",
+  },
+  
+];
