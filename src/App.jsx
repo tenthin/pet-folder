@@ -1,12 +1,12 @@
 import React from "react";
+import Cat from "./Pages/Cat";
 
 const App = () => {
-  
-  return <div>
-      <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  </div>;
+  return (
+    <>
+      <Cat />
+    </>
+  );
 };
 
 export default App;
